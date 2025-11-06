@@ -1,0 +1,5 @@
+{
+  "name": "3D Drum Machine Sampler",
+  "description": "An interactive 3D drum machine and step sequencer built with React, Three.js, and Tailwind CSS. Create beats by activating steps in the grid and see them come to life in a dynamic 3D visualization.",
+  "requestFramePermissions": []
+}
